@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hezjbranch
 - 👀 I’m interested in functional neurosurgery and systems neuroscience
-- 🌱 I’m currently learning biomedical signal processing at MIT and MGH
+- 🌱 I’m currently learning neural signal processing at MIT and MGH
 - 💞️ I’m looking to collaborate on dynamical models of human intracranial data
 - 📫 How to reach me hbranch@mgh.harvard.edu
 - 😄 Pronouns: He/Him/His
